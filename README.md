@@ -2,9 +2,11 @@
 
 ## About
 
-Flott is a collection of libraries for writing motion control applications in the [Rust programming language][Rust]. This repository is intended for project-wide discussion and documentation of project-wide policies.
+**Developing motion control software in Rust should be easy!** Flott aims to make this a reality, by providing libraries that abstract over hardware commonly used for motion control, like motors, encoders, and other sensors and actuators.
 
-More information will be released at a future date. For now, feel free to check out the [other repositories][Flott] that are part of the Flott project.
+Please [check out the website][flott-motion.org] and the [organization page on GitHub][Flott] for more information.
+
+This repository is intended for project-wide discussion and documentation of project-wide policies.
 
 ## Funding
 
@@ -12,6 +14,6 @@ If you're getting value out of Flott, please consider supporting us financially.
 
 [Hanno Braun], the creator of Flott, is [accepting sponsorship](https://github.com/sponsors/hannobraun).
 
-[Rust]: https://www.rust-lang.org/
+[flott-motion.org]: https://flott-motion.org/
 [Flott]: https://github.com/flott-motion
 [Hanno Braun]: https://github.com/hannobraun
