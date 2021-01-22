@@ -1,4 +1,4 @@
-# Flott - Motion Control Toolkit
+# Flott - Motion Control in Rust
 
 ## About
 
