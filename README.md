@@ -6,7 +6,7 @@ Flott is a collection of libraries for writing motion control applications in th
 
 More information will be released at a future date. For now, feel free to check out the [other repositories][Flott] that are part of the Flott project.
 
-## Support This Project
+## Funding
 
 If you're getting value out of Flott, please consider supporting us financially. Your sponsorship helps to keep the project healthy and moving forward.
 
