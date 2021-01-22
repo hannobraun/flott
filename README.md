@@ -1,7 +1,5 @@
 # Flott - Motion Control in Rust
 
-**Please consider supporting this project financially. More information below.**
-
 ## About
 
 Flott is a collection of libraries for writing motion control applications in the [Rust programming language][Rust]. This repository is intended for project-wide discussion and documentation of project-wide policies.
