@@ -1,3 +1,7 @@
+**The Flott project has been retired. Please read [the announcement](https://flott-motion.org/news/winding-down-flott/)**.
+
+---
+
 # Flott - Motion Control in Rust
 
 ## About
